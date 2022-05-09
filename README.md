@@ -2,7 +2,7 @@
 
 This repo holds the results of a machine learning classification task on bank marketing campaign data.
 
-- Explonatory data analysis (EDA)
+- Exploratory data analysis (EDA)
 - Training and evaluation of different machine learning models
   - Random Forest
   - XGBoost
